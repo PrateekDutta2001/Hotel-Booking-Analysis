@@ -6,3 +6,6 @@ This dataset contains 31 features about booking information such as Average Dail
 
 As a result of all these analyses, I aim to find best model to predict hotel booking cancellations with tree-based algorithms based on rest of the features found in the dataset. 
 The goal of predictive analysis is to avoid overfitting and find the model that has the highest accuracy. 
+
+Hotel industry is a very volatile industry and the bookings depend on variety of factors such as type of hotels, seasonality, days of week and many more. This makes analyzing the patterns available in the past data more important to help the hotels plan better. Using the historical data, hotels can perform various campaigns to boost the business. We can use the patterns to predict the future bookings using time series or decision trees.
+
