@@ -14,3 +14,5 @@ Exploratory Data Analysis refers to the critical process of performing initial i
 TYPES OF EXPLORATORY DATA ANALYSIS: Univariate Non-graphical, Multivariate Non-graphical, Univariate graphical, Multivariate graphical.
 
 Hyperparameter tuning is choosing a set of optimal hyperparameters for a learning algorithm. A hyperparameter is a model argument whose value is set before the learning process begins. The key to machine learning algorithms is hyperparameter tuning.
+
+XGBoost is a decision-tree-based ensemble Machine Learning algorithm that uses a gradient boosting framework. In prediction problems involving unstructured data (images, text, etc.) artificial neural networks tend to outperform all other algorithms or frameworks. However, when it comes to small-to-medium structured/tabular data, decision tree based algorithms are considered best-in-class right now.
